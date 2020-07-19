@@ -1,5 +1,10 @@
 # Covid Analysis
 
+[![OpenFaaS](https://img.shields.io/badge/Libraby-Matplotlib-darkblue.svg)](https://www.openfaas.com)
+[![OpenFaaS](https://img.shields.io/badge/Libraby-Seaborn-darkgreen.svg)](https://www.openfaas.com)
+[![OpenFaaS](https://img.shields.io/badge/Language-Python-purple.svg)](https://www.openfaas.com)
+[![OpenFaaS](https://img.shields.io/badge/Libraby-Pandas-brown.svg)](https://www.openfaas.com)
+
 -  This project is to analyse the dataset using descriptive and inferential statistics.
 
 ## Purpose of the dataset
