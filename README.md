@@ -21,7 +21,7 @@
 
 ## Inferential Statistics
 - Sampling distribution is made on the quantitative variable confirmed.
-- Central limit theorem i.e population mean is equal to sampling distribution is verified for confirmed variable in the dataset.
+- Central limit theorem i.e population mean is equal to sampling distribution mean is verified for variable confirmed in the dataset.
 - Interval estimation of quantitative variable (Active) and qualitative variable (WHO region) is calculated using confidence interval of 90%.
 - In that interval sample mean falls where population mean also resides and sample proportion for categorical variable is in the same range.
 - Hypothesis testing -Two tailed test is carried on confirmed variable in csv file where null hypothesis is assumed as 10000-average of confirmed cases
