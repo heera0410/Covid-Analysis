@@ -16,6 +16,7 @@
 -  A quantitative variable confirmed is taken which delivers the information of no. of confirmed cases.
 -  Measure of centre and measure of variation is calculated.
 -  distplot which combines hist function, kdeplot or rugplot functions is used to plot the graph
+   ![Alt Text]()
 -  boxplot---> which is five no. summary of set of data such as minimum,first quartile,median,third quartile,maximum is plotted for WHO region against confirmed.
 -  Pie chart and count plot is used to plot the proportion of WHO region in the dataset and to count the no. of countries in the dataset.
 
